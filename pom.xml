@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.127.203.140:8081/repository/qw/</url>
+	      <url>http://13.235.8.200:8081/repository/qw/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.127.203.140:8081/repository/qwsnap/</url>
+	      <url>http://13.235.8.200:8081/repository/qwsnap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
