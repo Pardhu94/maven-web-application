@@ -104,8 +104,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.174.231:8081/repository/mithunsnapshot/</url>
+	      <name>Mithun Technologies Snapshot Nexus</name>
+	      <url>http://ec2-65-0-204-113.ap-south-1.compute.amazonaws.com:8081/repository/mavensnap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
