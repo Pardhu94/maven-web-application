@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://ec2-65-0-104-202.ap-south-1.compute.amazonaws.com:8081/repository/Pardhurelease/</url>
+	      <urlhttp://ec2-13-232-81-104.ap-south-1.compute.amazonaws.com:8081/repository/Pardhurelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus</name>
-	      <url>http://ec2-65-0-104-202.ap-south-1.compute.amazonaws.com:8081/repository/Pardhusnapshot/</url>
+	      <url>http://ec2-13-232-81-104.ap-south-1.compute.amazonaws.com:8081/repository/Pardhusnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
